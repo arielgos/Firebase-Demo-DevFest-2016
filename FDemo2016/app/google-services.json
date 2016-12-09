@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "76519881749",
+    "firebase_url": "https://fdemo-a3ef3.firebaseio.com",
+    "project_id": "fdemo-a3ef3",
+    "storage_bucket": "fdemo-a3ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76519881749:android:7c486ab58e8e2605",
+        "android_client_info": {
+          "package_name": "com.agos.fdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76519881749-rc1kbm2gj9ujo970nboka75tc1dmnucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXC_I9taFEXFnbsy-n6Y0xstioqq--lhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76519881749:android:b0efe101b1e38cc9",
+        "android_client_info": {
+          "package_name": "org.gdg.fdemo2016"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76519881749-rc1kbm2gj9ujo970nboka75tc1dmnucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXC_I9taFEXFnbsy-n6Y0xstioqq--lhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
